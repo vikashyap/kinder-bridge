@@ -32,7 +32,7 @@ export default function CaregiverStep1() {
 
             {/* Right Side: Form Content */}
             <div className="relative flex w-full flex-col p-6 lg:w-1/2 lg:p-16">
-                {/* Top Progress Bar */}
+                {/* Top Progres Bar */}
                 <div className="absolute top-0 left-0 right-0 h-1.5 bg-border/40">
                     <div className="h-full w-1/5 bg-[#8BA889] shadow-[0_0_10px_rgba(139,168,137,0.5)]" />
                 </div>
